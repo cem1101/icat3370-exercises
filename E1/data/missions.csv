@@ -1,0 +1,10 @@
+mission,operator,measures,pixel_m,revisit_days,swath_km,bands,access,note,source
+Sentinel-2,ESA / EU Copernicus,reflected sunlight (optical),10,5,290,13,free,"MSI, 13 bands 443-2190 nm; 10/20/60 m; 5-day design revisit with two satellites (lecturer's table)",sentiwiki.copernicus.eu/web/s2-mission
+Sentinel-3 OLCI,ESA / EUMETSAT / EU Copernicus,reflected sunlight (optical),300,1,1270,21,free,"OLCI 300 m; near-daily coverage (lecturer: 300 m to 1 km, near-daily); SLSTR on the same satellite measures temperature",sentiwiki.copernicus.eu/web/s3-mission
+Sentinel-1,ESA / EU Copernicus,radar backscatter (microwave),10,6,400,1,free,"C-band SAR; day/night, through cloud; 5-40 m modes, swath to 400 km (lecturer's table); 250 km in the mode used over Finland",sentiwiki.copernicus.eu/web/s1-mission
+Sentinel-5P,ESA / EU Copernicus,trace gases (spectrometer),3500,1,2600,8,free,"TROPOMI; ground pixel 5.5 x 3.5 km; daily global coverage; atmosphere mission, not a surface imager",sentiwiki.copernicus.eu/web/s5p-mission
+Landsat 8/9,NASA / USGS,reflected sunlight (optical),30,8,185,11,free,"OLI; 30 m (15 m panchromatic); 8 days with both satellites",usgs.gov/landsat-missions/landsat-9
+MODIS,NASA,reflected sunlight (optical),250,1,2330,36,free,"Terra + Aqua; 250 m only for two bands; near-daily global",modis.gsfc.nasa.gov/about/specifications.php
+PlanetScope,Planet Labs,reflected sunlight (optical),3,1,32.5,8,paid,"SuperDove; near-daily; scene width about 32.5 km",docs.planet.com/data/imagery/planetscope
+WorldView-3,Vantor (Maxar),reflected sunlight (optical),1.24,1,13.1,8,paid,"0.31 m panchromatic; revisit under one day by pointing",eoportal.org/satellite-missions/worldview-3
+ICEYE,ICEYE (Finland),radar backscatter (microwave),3,1,30,1,paid,"X-band SAR; Strip 3 m (Spot 1 m); constellation, tasked on request",earth.esa.int/eogateway/missions/iceye
